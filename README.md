@@ -5,3 +5,6 @@ Diabetes prediction model using ML
 * [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/#:~:text=Resampling%20Technique,class%20(over%2Dsampling).)
 * [Handle-imbalanced-data github](https://github.com/benai9916/Handle-imbalanced-data/tree/master)
 * [10 Techniques to deal with Imbalanced Classes in Machine Learning](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/#:~:text=Resampling%20Technique,class%20(over%2Dsampling).)
+* [Handling Imbalanced Dataset Using Cost Sensitive Neural Networks- Credit Card Fraud Detection
+](https://www.youtube.com/watch?v=y8zqS7cfi6o)
+* [Live Discussion On Handling Imbalanced Dataset- Machine Learning](https://youtu.be/pDw_JHHvj-0)
