@@ -13,5 +13,5 @@ Note:
 
 Before implementing do the below tasks:
 
-1. Performance matrix
-2. Cross-validation tasks
+1. [Performance matrix](https://www.youtube.com/watch?v=7062skdX05Y)
+2. [Cross-validation tasks study and implementation](https://www.youtube.com/watch?v=7062skdX05Y)
