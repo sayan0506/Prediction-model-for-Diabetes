@@ -8,6 +8,7 @@ Diabetes prediction model using ML
 * [Handling Imbalanced Dataset Using Cost Sensitive Neural Networks- Credit Card Fraud Detection
 ](https://www.youtube.com/watch?v=y8zqS7cfi6o)
 * [Live Discussion On Handling Imbalanced Dataset- Machine Learning](https://youtu.be/pDw_JHHvj-0)
+* [Uncertainty in Deep Learning. How To Measure?](https://towardsdatascience.com/my-deep-learning-model-says-sorry-i-dont-know-the-answer-that-s-absolutely-ok-50ffa562cb0b)
 
 Note:
 
