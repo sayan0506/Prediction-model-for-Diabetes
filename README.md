@@ -11,6 +11,8 @@ Diabetes prediction model using ML
 * [Uncertainty in Deep Learning. How To Measure?](https://towardsdatascience.com/my-deep-learning-model-says-sorry-i-dont-know-the-answer-that-s-absolutely-ok-50ffa562cb0b)
 * [The_Effects_of_Missing_Data_Characteristics_on_the](https://github.com/sayan0506/Prediction-model-for-Diabetes/blob/main/The_Effects_of_Missing_Data_Characteristics_on_the.pdf)
 
+* [Extreme Learning Machine](https://towardsdatascience.com/introduction-to-extreme-learning-machines-c020020ff82b)
+
 Note:
 
 Before implementing do the below tasks:
