@@ -12,6 +12,7 @@ Diabetes prediction model using ML
 * [The_Effects_of_Missing_Data_Characteristics_on_the](https://github.com/sayan0506/Prediction-model-for-Diabetes/blob/main/The_Effects_of_Missing_Data_Characteristics_on_the.pdf)
 
 * [Extreme Learning Machine](https://towardsdatascience.com/introduction-to-extreme-learning-machines-c020020ff82b)
+* [DataWig: Missing Value Imputation for Tables](https://www.jmlr.org/papers/volume20/18-753/18-753.pdf)
 
 Note:
 
