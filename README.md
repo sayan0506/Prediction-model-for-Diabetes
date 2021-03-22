@@ -3,7 +3,9 @@ Diabetes prediction model using ML
 
 ## EDA:
 
-**[Diabetes Prediction EDA](https://www.kaggle.com/emregur/diabetes-classification-0-892)
+**[Diabetes Prediction EDA](https://www.kaggle.com/emregur/diabetes-classification-0-892)**
+
+## Resource
 
 * [RivalGan for class imbalnce](https://github.com/ygrepo/RivalGan)
 * [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/#:~:text=Resampling%20Technique,class%20(over%2Dsampling).)
