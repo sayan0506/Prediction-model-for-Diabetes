@@ -5,6 +5,8 @@ Diabetes prediction model using ML
 
 **[Diabetes Prediction EDA](https://www.kaggle.com/emregur/diabetes-classification-0-892)**
 
+[Main Notebook](
+
 ## Resource
 
 * [RivalGan for class imbalnce](https://github.com/ygrepo/RivalGan)
