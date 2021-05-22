@@ -5,7 +5,7 @@ Diabetes prediction model using ML
 
 **[Diabetes Prediction EDA](https://www.kaggle.com/emregur/diabetes-classification-0-892)**
 
-[Main Notebook](
+[Main Notebook](https://github.com/sayan0506/Prediction-model-for-Diabetes/blob/main/Pima_Indian_Diabetes_prediction_model.ipynb)
 
 ## Resource
 
